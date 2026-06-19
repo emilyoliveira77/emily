@@ -99,7 +99,7 @@ Isso irá:
 Verifique se o lab está rodando:
 
 ```bash
-docker ps --filter "label=containerlab=Emily-lab"
+docker ps --filter "label=containerlab=emilyolivera77-lab"
 ```
 
 ---
