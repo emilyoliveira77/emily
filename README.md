@@ -81,8 +81,8 @@ containerlab version
 Clone o repositório e acesse o diretório do laboratório:
 
 ```bash
-git clone https://github.com/emilyoliveira77/emily
-cd lab
+git clone https://github.com/emilyoliveira77/Emily
+cd Emily
 ```
 
 ## 🐝 Passo 2 — Deploy da Topologia
